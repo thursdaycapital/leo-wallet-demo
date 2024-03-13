@@ -1,3 +1,9 @@
+
+
+# Discord: xxxeer
+
+
+
 # Leo Wallet Demo
 
 This is a NextJS-based demo site for the [Aleo Wallet Adapter](https://github.com/demox-labs/aleo-wallet-adapter) to be used on the [Aleo blockchain](https://aleo.org). <br>
